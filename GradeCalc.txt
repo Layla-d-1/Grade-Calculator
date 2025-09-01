@@ -1,0 +1,19 @@
+PSEUDOCODE for a java program, that uses the users marks to calculate the average.
+
+
+START 
+    PRINT "Welcome to your very own average calculator."
+    PROMPT user for mark 1
+    STORE mark1 as a float variable ( mark1)
+    
+    PROMPT user for mark 2
+    STORE mark2 as a float variable ( mark2)
+
+    PROMPT user for mark 3
+    STORE mark3 as a float variable (mark 3)
+
+    PROMPT user for mark 4 
+    STORE mark3 as a floa variable (mark 3)
+
+        PRINT "Your average mark is : "
+
